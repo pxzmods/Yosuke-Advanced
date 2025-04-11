@@ -2,6 +2,9 @@
 
 ![Seu Nome no GitHub's Stats](https://github-readme-stats.vercel.app/api?username=pxzmods&theme=dark&show_icons=true)
 
+## Welcome to my WhatsApp channel
+[![Join WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAshx2J3juyl15Rh41j)
+
 
 **How to install Yosuke bot on Termux🎭**
 
