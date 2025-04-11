@@ -21,15 +21,6 @@
   },
   {
     "command": "coins",
-    "info": "
-Olá, o sistema coins funciona da sequinte forma, para ativar use #prefixo#Sistemacoins e para desativar use novamente.
-
-Para ver seu saldo use: #prefixo#saldo
-
-para roubar um usuário use: #prefixo#roubar e marcar (@)
-    
-    
-    
-    "
+    "info": "Olá, o sistema coins funciona da sequinte forma,\n\npara ativar use #prefixo#Sistemacoins e para desativar use novamente.\n\nPara ver seu saldo use: #prefixo#saldo\n\npara roubar um usuário use: #prefixo#roubar e marcar (@)"
   }
 ]
