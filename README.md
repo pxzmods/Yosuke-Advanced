@@ -49,4 +49,6 @@ cd yosuke-advanced
 sh start.sh
 ```
 
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pxzmodstutorial)
+
+## canal no YouTube
+[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pxzmodsofc)
