@@ -59,6 +59,16 @@ return `
 │ ⊳ ${prefix}Gerarlink (img/vid)
 ╰──────────────── ⪨  
 
+╭── ｢ *FIGURINHAS* 」 ⪨
+│ ⊳ ${prefix}Attp (texto)
+│ ⊳ ${prefix}Tpp (texto
+│ ⊳ ${prefix}Rename (texto/texto)
+│ ⊳ ${prefix}S (marcar-foto)
+│ ⊳ ${prefix}F (marcar-foto)
+│ ⊳ ${prefix}Figurinhas (qtn) 
+│ ⊳ ${prefix}Toimg (marcar-figu)
+╰──────────────── ⪨  
+
 ╭── ｢ *COMANDOS INTERATIVO* 」 ⪨
 │ ⊳ ${prefix}Falar (Idioma + Texto)
 │ ⊳ ${prefix}Tagme 
