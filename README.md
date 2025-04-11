@@ -36,6 +36,11 @@ cd /sdcard/
 git clone https://github.com/pxzmods/Yosuke-Advanced.git
 ```
 
+7° Comando:
+```
+cd yosuke-advanced
+```
+
 **Comando para iniciar a bot🔐**
 ```
 sh start.sh
