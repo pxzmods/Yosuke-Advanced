@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Justice ポ",
+    "groupId": "120363315759564263@g.us",
+    "x9": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": false,
+    "autobaixar": false,
+    "Odelete": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": true,
+    "rg_aluguel": false,
+    "listanegra": [
+      "5521992818588@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [
+      {
+        "id": "557592265773@s.whatsapp.net",
+        "msg": "estou fazendo faxina"
+      },
+      {
+        "id": "553791212100@s.whatsapp.net",
+        "msg": "volto segunda"
+      },
+      {
+        "id": "557196482313@s.whatsapp.net",
+        "msg": "volto amanhã"
+      },
+      {
+        "id": "554185240061@s.whatsapp.net",
+        "msg": "to dormindo procura a @553298339204 ou a @5511960644426 minhas secretarias"
+      }
+    ],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

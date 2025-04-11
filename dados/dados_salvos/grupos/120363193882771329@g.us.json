@@ -1,0 +1,83 @@
+[
+  {
+    "name": "𝐂𝐎𝐕𝐄𝐍 • 𝐀𝐌𝐎𝐍𝐆 𝐔𝐒 灸",
+    "groupId": "120363193882771329@g.us",
+    "x9": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "autobaixar": false,
+    "Odelete": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "rg_aluguel": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "laranja",
+        "dica": "pode ser uma cor também",
+        "tema": "fruta"
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": true,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "antipv2": false,
+  "antipv3": true,
+  "menu_audio": false,
+  "verificado": false,
+  "consoleoff": true,
+  "antipv": false,
+  "anticall": false,
+  "visualizarmsg": false,
+  "listanegraG": [],
+  "cmdpremium": [],
+  "TOKEN_GPT": [
+    "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"
+  ],
+  "msgantipv2": "Não pode mandar mensagem para o bot, ele está programado para não responder, tente falar com meu dono",
+  "isRecolherLink": false,
+  "dono1": ".",
+  "dono2": ".",
+  "dono3": ".",
+  "dono4": ".",
+  "dono5": ".",
+  "dono6": ".",
+  "botoff": false
+}
